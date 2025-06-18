@@ -7,7 +7,7 @@
 - 📚 Build a personalized reading collection
 
 
-#💡 Features at a Glance
+<h1>💡 Features at a Glance</h1>
 🧠 Smart Routing: Seamless navigation using React Router
 
 📖 Modern Design: Sleek UI powered by Lucide icons and custom styling
