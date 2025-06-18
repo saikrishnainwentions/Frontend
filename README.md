@@ -1,4 +1,4 @@
-🌟 Project Highlights
+#🌟 Project Highlights
 
 ✨ **Inwentions Book Hub** is a dynamic and interactive platform where book lovers can:
 
@@ -6,7 +6,8 @@
 - 🔁 Exchange books within the community
 - 📚 Build a personalized reading collection
 
-💡 Features at a Glance
+
+#💡 Features at a Glance
 🧠 Smart Routing: Seamless navigation using React Router
 
 📖 Modern Design: Sleek UI powered by Lucide icons and custom styling
