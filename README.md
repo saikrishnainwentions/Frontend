@@ -1,4 +1,4 @@
-#🌟 Project Highlights
+#🌟 #Project Highlights
 
 ✨ **Inwentions Book Hub** is a dynamic and interactive platform where book lovers can:
 
